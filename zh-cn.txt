@@ -15,7 +15,7 @@ menu.language.button = 提交
 menu.language.your-language = 没有您的语言？帮我们改进！
 
 form.legend.source-files = 源文件
-form.legend.resize-source-images = 调整源文件大小
+form.legend.resize-source-images = 调整原图片大小
 form.legend.image-duplicates = 重复图片
 form.legend.sprite-output-options = 拼合图片输出选项
 form.legend.css-output-options = CSS 输出选项
@@ -31,7 +31,7 @@ form.label.vertical-offset = 垂直偏移
 form.label.background-colour = 背景 / 透明色 \# (可选)
 form.label.use-transparency = 背景色透明
 form.label.sprite-output-format = 拼合图片输出格式
-form.label.css-prefix = CSS Prefix (可选)
+form.label.css-prefix = CSS 前缀 (可选)
 form.label.filename-pattern-match = 匹配文件名 (可选)
 form.label.class-prefix = Class 前缀 (可选)
 form.label.css-suffix = CSS 后缀 (可选)
