@@ -3,7 +3,7 @@
 <h2>优势</h2>
 <p>创建 CSS sprites 时, 必须考虑多重浏览器兼容性问题, 此工具可以帮您避免这些问题.</p>
 <h3>Opera</h3>
-<p>Opera (9.0版本之前) 无法显示偏移大于 2042px 或小于 -2042px 的背景图. 此工具会自动合并为多列图片以适应垂直高度超过此数值的情况.</p>
+<p>Opera (9.0版本之前) 无法显示偏移大于 2042px 或小于 -2042px 的背景图. 此工具会自动拼合图片为多列以适应垂直高度超过此限制的情况.</p>
 <h3>Safari</h3>
 <p><a href="http://creativebits.org/webdev/safari_background_repeat_bug_fix">Safari 在显示重复背景是有一个bug</a>. 幸运的是可设置一个较大的水平偏移值以解决此bug (可更改).</p>
 <h2>延伸阅读</h2>
