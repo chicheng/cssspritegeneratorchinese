@@ -1,3 +1,4 @@
+#labels Featured
 #发布历史.
 
 = Release History =
