@@ -43,6 +43,7 @@ form.label.css-prefix = CSS 前缀 (可选)
 form.label.filename-pattern-match = 匹配文件名 (可选)
 form.label.class-prefix = 类前缀 (可选)
 form.label.css-suffix = CSS 后缀 (可选)
+form.label.wrap-columns = 多列图片以修复 Opera bug
 
 form.value.true-colour = 真色彩
 
