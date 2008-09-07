@@ -23,6 +23,7 @@ form.legend.resize-source-images = 调整原图片大小
 form.legend.image-duplicates = 重复图片
 form.legend.sprite-output-options = 拼合图片输出选项
 form.legend.css-output-options = CSS 输出选项
+form.legend.image-output-options = 拼合图片输出选项
 
 form.label.upload-images = 上传图片文件 (ZIP压缩格式)
 form.label.width = 宽度
